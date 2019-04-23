@@ -1,6 +1,6 @@
 # Assignment-4
 
-The database DB_PAPER_REVIEWERS allow to researchers submit their research papers for consideration. Reviews by reviewers are recorded for use in the paper selection process. The database system caters primarily to reviewers who record answers to evaluation questions for each paper they review and make recommendations regarding whether to accept or reject the paper. The data requirements are summarized as follows:
+The database DB_PAPER_REVIEWERS allows to researchers submit their research papers for consideration. Reviews by reviewers are recorded for use in the paper selection process. The database system caters primarily to reviewers who record answers to evaluation questions for each paper they review and make recommendations regarding whether to accept or reject the paper. The data requirements are summarized as follows:
 - Authors of papers are uniquely identified by e-mail id. First and last names are also recorded.
 - Each paper is assigned a unique identifier by the system and is described by a title, abstract, and the name of the electronic file containing the paper.
 - A paper may have multiple authors.
