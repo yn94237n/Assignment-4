@@ -9,4 +9,4 @@ The database DB_PAPER_REVIEWERS allows to researchers submit their research pape
 - Each paper is assigned to different reviewers. A reviewer rates each paper assigned to him or her on a scale of 1 to 10 in four categories: technical merit, readability, originality, and relevance to the conference.
 Finally, each reviewer provides an overall recommendation regarding each paper.
 
-This MySQL scripts will build the DB schema and populate the database DB_PAPER_REVIEWERS based on the previous system description.
+These MySQL scripts will build the DB schema and populate the database DB_PAPER_REVIEWERS based on the previous system description.
